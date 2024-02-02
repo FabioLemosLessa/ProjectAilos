@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEIQTSyAVH6mxJcMvdxgezvpC6DmxSSh2Es8md50nLYbr3TqP3J/56bPL0ivy8aBnAZ7HgLwC8bTZ5tsEmrHJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\source\\testAilos\\Questao2\\Questao2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
